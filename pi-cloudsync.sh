@@ -11,3 +11,5 @@ Logfile=""
 Email=""
 Emailfile=""
 
+# Start logging.
+echo "Pi-CloudSync started at $(date) by $(whoami)" >> $Logfile;
