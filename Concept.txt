@@ -1,0 +1,6 @@
+Concept
+=======
+
+1. Add SSH Keys
+2. Use RSYNC for cloud-backups
+rsync -rvz -e 'ssh -p $remoteport' --progress $homedir $user@$remotehost:$remotedir
