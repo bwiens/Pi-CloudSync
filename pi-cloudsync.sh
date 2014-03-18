@@ -1,5 +1,5 @@
 #!/bin/bash
-# Authors Benjamin Wiens & Björn Sunedahl 
+# Authors Benjamin Wiens & BHES
 
 # Variables
 Remotehost=""
