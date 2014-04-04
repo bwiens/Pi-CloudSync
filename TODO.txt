@@ -1,0 +1,7 @@
+- rsync with email report
+- text message alert
+- error check before actually doing rsync
+- tarball 
+- rotation
+- possible html report and php (?) that picks up the report 
+  to a small interface
