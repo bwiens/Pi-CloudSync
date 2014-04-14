@@ -3,5 +3,4 @@
 - error check before actually doing rsync
 - tarball 
 - rotation
-- possible html report and php (?) that picks up the report 
-  to a small interface
+- generate dynamic html, possibly php that picks up log reports
